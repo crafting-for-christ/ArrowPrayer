@@ -4,7 +4,8 @@
   "description": "A Discord bot to submit prayer requests for the community to pray for.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "boot": "node app.js"
   },
   "repository": {
     "type": "git",
